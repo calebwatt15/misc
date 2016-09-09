@@ -1,0 +1,3 @@
+Re-doing Learn C The Hard Way with the first release out of beta. In this directory is the examples and Makefile.
+
+All ex#.c files should be compiliable. ex#Break.c probably are not, and ex#Ec.c files should be.
